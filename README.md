@@ -94,6 +94,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [imbenrabi/Financial-Modeling-Prep-MCP-Server](https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server) - 250+ Financial Modeling Prep API tools: financials, technical indicators, insider trading, SEC filings, earnings, and crypto.
 - [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) - Cryptocurrency technical analysis indicators (MACD, RSI, Bollinger Bands) via CCXT for AI trading agents.
 - [stefanoamorelli/fred-mcp-server](https://github.com/stefanoamorelli/fred-mcp-server) - Federal Reserve Economic Data (FRED) MCP server: access 800,000+ macroeconomic time series.
+- [target1m/traderspy-mcp](https://github.com/target1m/traderspy-mcp) - Hosted remote MCP server for crypto futures: AI signals with entry/target/stop levels and realised outcomes, smart money positioning across Binance, Hyperliquid, Bybit and OKX, live prices, candles, and 13 technical indicators. 15 read-only tools over Streamable HTTP at `https://mcp.traderspy.app/mcp`; OAuth 2.1 or API key.
 
 ### Trading Execution
 
